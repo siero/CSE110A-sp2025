@@ -17,8 +17,8 @@ Given the influx in domain-specific languages, and the explosion of architectura
 
 We have a great teaching staff this quarter! All of them have lots of experience in compilers. Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TAs*: Devon McKee, Rithik Sharma
-- *Undergrad Mentors/Graders*: Sanya Srivastava, Arrian Chi, Gurpreet Dhillon
+- *Grad TAs*: Sakshi Garg, Rithik Sharma
+- *Undergrad Mentors/Graders*: Kaushal Anbarasan, Khushali Dhomse, Jack Lund, Ryan Nelson, Ananthajit Srikanth
 
 ## Necessary Background
 
@@ -32,7 +32,7 @@ Because this is an upper division class, I do expect a general CS foundation. Fo
 
 ## Class Modules
 
-This class will be split into 5 modules, each of which are roughly two weeks:
+This class will be split into 4 modules, each of which are roughly two weeks:
 
 * **Module 1: Lexing** 
 
@@ -41,12 +41,10 @@ This class will be split into 5 modules, each of which are roughly two weeks:
 * **Module 3: Intermediate Representations** 
 
 * **Module 4: Optimizations**  
- 
-* **Module 5: Backends** 
 
 ## Class Format
 
-Each class is 65 minutes. I plan to stay after class for roughly 15 minutes to answer questions. Please be respectful of time and make sure that everyone who stays afterwards is able to see me. We will meet out in the hallway so we do not disturb the next class.
+Each class is 65 minutes. I plan to stay after class for roughly 10 minutes to answer questions. Please be respectful of time and make sure that everyone who stays afterwards is able to see me. We will meet out in the hallway so we do not disturb the next class.
 
 _Non-protected materials_ will be hosted on this website. This includes the schedule, lecture slides, and references, etc.
 
@@ -84,24 +82,11 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Devon is available on Tuesdays from 3:00PM to 5:00PM, virtual.
-
-Devon will use the Zoom waiting room feature, and answer questions first-come-first-serve. Please try to keep your question within 10 minutes. 
-
-[Zoom Link](https://ucsc.zoom.us/j/6705118855?pwd=alQ1SmlFbzFXMlQrYVFET1JiK1pJQT09)
-
-
-Rithik is available on Fridays from 3:00PM to 5:00PM, TBD.
-
-Rithik’s office hours will be hybrid and he will use a similar sign-up sheet.
+TBD
 
 ### Mentoring Hours:
 
-Arrian is available on Mondays and Thursdays from 1:00PM - 3:00PM, [virtual](https://ucsc.zoom.us/j/4286863705?pwd=dnhxUWk0bkJZNVQ5UTVlVkNycmtUQT09).
-
-Neal is available on Tuesdays and Thursdays, 6:30PM - 7:30PM, [virtual](https://ucsc.zoom.us/j/99946604176?pwd=NlQ3MWRxbXZsK2kzOVdzTVNTVmdrZz09).
-
-Sanya is available on Wednesdays 5:30PM - 6:30PM and Fridays, 2:00PM - 3:00PM, [virtual](https://ucsc.zoom.us/j/2093336779?pwd=WjZ0aFlQckZOeEx6Z09HY2JYZmdSUT09).
+TBD
 
 ## Asynchronous Communication
 
@@ -125,8 +110,8 @@ This class has homeworks that build on each other, that is, later homeworks will
 
 There will be two tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
 
-The midterm will be given halfway through the class: Monday May 8th
-The final will be given on: Monday, June 12	8:00–11:00 a.m.
+The midterm will be given halfway through the class: Friday May 3rd during lecture time
+The final will be given on: Monday, June 10	12:00–3:00 PM
 
 ## Grade Breakdown
 
