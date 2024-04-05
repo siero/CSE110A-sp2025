@@ -15,7 +15,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|----------|--------|----------------
 | Mon, April 1    | Welcome!                            | [slides](lectures/CSE110AApril1_sp2024.pdf) | [Overview page](https://sorensenucsc.github.io/CSE110A-sp2024/overview.html)
 | Wed, April 3    | Introduction to Compilers           | [slides](lectures/CSE110AApril3_sp2024.pdf) | EAC Chapter 1
-| Fri, April 5    | Introduction to Lexical Analysis    |  |
+| Fri, April 5    | Introduction to Lexical Analysis    | [slides](lectures/CSE110AApril5_sp2024.pdf)  |
 | Mon, April 8    | Regular Expressions                 |  | 
 | Wed, April 10   | Implementing Scanners with REs      |  | 
 | Fri, April 12   | Token Actions                       |  | 
