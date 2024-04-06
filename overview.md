@@ -124,7 +124,7 @@ This class has homeworks that build on each other, that is, later homeworks will
 
 There will be two tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
 
-The midterm will be given halfway through the class: Friday May 3rd during lecture time
+The midterm will be given halfway through the class: Friday May 6th during lecture time
 The final will be given on: Monday, June 10	12:00–3:00 PM
 
 ## Grade Breakdown
