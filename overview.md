@@ -82,11 +82,25 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-TBD
+| Day and Time | TA | location/Zoom Link|
+|---|---|---|
+| Tuesday 4 - 5 PM | Rithik | in-person (location TBD) |
+| Wednesday 4 - 5 PM | Sakshi | E2-216 |
+| Thursday 4 - 5 PM | Sakshi | E2-216 |
 
 ### Mentoring Hours:
 
-TBD
+| Day and Time | Mentor | location/Zoom Link|
+|---|---|---|
+| Monday 11 AM - 12 PM | Kaushal | Zoom (link will be shortly shared) |
+| Monday 3 - 4 PM | Ryan | in-person (location TBD) |
+| Monday 4 - 5 PM | Ananth | in-person (location TBD) |
+| Tuesday 5 - 6 PM | Kaushal | in-person (location TBD) |
+| Wednesday 1 - 2 PM | Jack |  Zoom (link will be shortly shared) |
+| Wednesday 3 - 4 PM | Ryan | in-person (location TBD) |
+| Friday 11 AM - 12 PM | Jack | in-person (location TBD) |
+| Friday 4 - 5 PM | Ananth |  Zoom (link will be shortly shared) |
+
 
 ## Asynchronous Communication
 
