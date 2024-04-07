@@ -92,14 +92,14 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 | Day and Time | Mentor | location/Zoom Link|
 |---|---|---|
-| Monday 11 AM - 12 PM | Kaushal | Zoom (link will be shortly shared) |
-| Monday 3 - 4 PM | Ryan | in-person (location TBD) |
+| Monday 11 AM - 12 PM | Kaushal | Zoom|
+| Monday 12:30 - 1:30 PM  | Ryan | in-person (location TBD) |
 | Monday 4 - 5 PM | Ananth | in-person (location TBD) |
 | Tuesday 5 - 6 PM | Kaushal | in-person (location TBD) |
-| Wednesday 1 - 2 PM | Jack |  Zoom (link will be shortly shared) |
-| Wednesday 3 - 4 PM | Ryan | in-person (location TBD) |
+| Wednesday 1 - 2 PM | Jack |  Zoom |
+| Thursday 11:30 AM - 12:30 PM | Ryan | Zoom |
 | Friday 11 AM - 12 PM | Jack | in-person (location TBD) |
-| Friday 4 - 5 PM | Ananth |  Zoom (link will be shortly shared) |
+| Friday 4 - 5 PM | Ananth |  Zoom |
 
 
 ## Asynchronous Communication
