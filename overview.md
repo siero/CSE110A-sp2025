@@ -86,7 +86,7 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 |---|---|---|
 | Tuesday 4 - 5 PM | Rithik | in-person (location TBD) |
 | Wednesday 4 - 5 PM | Sakshi | E2-216 |
-| Thursday 4 - 5 PM | Sakshi | E2-216 |
+| Thursday (TBD) | Sakshi | E2-216 |
 
 ### Mentoring Hours:
 
