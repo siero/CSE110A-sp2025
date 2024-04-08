@@ -87,7 +87,7 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 | Tuesday 3 - 4 PM | Rithik | BE-151 |
 | Wednesday 4 - 5 PM | Sakshi | E2-216 |
 | Thursday 10 - 11 AM | Rithik | Virtually |
-| Thursday (TBD) | Sakshi | E2-216 |
+| Thursday 2 - 3 PM | Sakshi | E2-216 |
 
 ### Mentoring Hours:
 
