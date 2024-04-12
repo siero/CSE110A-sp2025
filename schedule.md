@@ -18,7 +18,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, April 5    | Introduction to Lexical Analysis    | [slides](lectures/CSE110AApril5_sp2024.pdf)  |
 | Mon, April 8    | Regular Expressions                 | [slides](lectures/CSE110AApril8_sp2024.pdf) | 
 | Wed, April 10   | Implementing Scanners with REs      | [slides](lectures/CSE110AApril10_sp2024.pdf) | 
-| Fri, April 12   | Token Actions                       |   | 
+| Fri, April 12   | Token Actions                       | [slides](lectures/CSE110AApril12_sp2024.pdf)  | 
 
 ### Module 2: Parsing
 
