@@ -24,13 +24,13 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, April 15    | CFGS and Derivations                         | | EAC Chapter 3.2
-| Wed, April 17    | Parse Trees and ambiguous grammars           | | EAC Chapter 3.2
-| Fri, April 19    | Associativity and top-down parsing           | | EAC Chapter 3.3 (first half)
-| Mon, April 22    | Left recursion and lookahead in parsing      | | EAC Chapter 3.3 (first half)
-| Wed, April 24    | Recursive descent parsers and symbol tables  | | 
-| Fri, April 26    | Symbol Tables and parser generators          | | [ply documentation](https://www.dabeaz.com/ply/ply.html)
-| Mon, April 29    | Parser Generators                            | | [ply documentation](https://www.dabeaz.com/ply/ply.html)
+| Mon, April 15    | CLASS CANCELED                               | | 
+| Wed, April 17    | CFGS and Derivations                         | [slides](lectures/CSE110AApril17_sp2024.pdf) | EAC Chapter 3.2
+| Fri, April 19    | Parse Trees and ambiguous grammars           | | EAC Chapter 3.2
+| Mon, April 22    | Associativity and top-down parsing           | | EAC Chapter 3.3 (first half)
+| Wed, April 24    | Left recursion and lookahead in parsing      | | EAC Chapter 3.3 (first half)
+| Fri, April 26    | Recursive descent parsers and symbol tables          | | EAC Chapter 3.3 (first half)
+| Mon, April 29    | Symbol Tables and parser generators                            | | [ply documentation](https://www.dabeaz.com/ply/ply.html)
 
 
 
