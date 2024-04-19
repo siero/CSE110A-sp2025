@@ -26,7 +26,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|----------|--------|----------------
 | Mon, April 15    | CLASS CANCELED                               | | 
 | Wed, April 17    | CFGS and Derivations                         | [slides](lectures/CSE110AApril17_sp2024.pdf) | EAC Chapter 3.2
-| Fri, April 19    | Parse Trees and ambiguous grammars           | | EAC Chapter 3.2
+| Fri, April 19    | Parse Trees and ambiguous grammars           | [slides](lectures/CSE110AApril19_sp2024.pdf)| EAC Chapter 3.2
 | Mon, April 22    | Associativity and top-down parsing           | | EAC Chapter 3.3 (first half)
 | Wed, April 24    | Left recursion and lookahead in parsing      | | EAC Chapter 3.3 (first half)
 | Fri, April 26    | Recursive descent parsers and symbol tables          | | EAC Chapter 3.3 (first half)
