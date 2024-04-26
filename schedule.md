@@ -29,7 +29,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, April 19    | Parse Trees and ambiguous grammars           | [slides](lectures/CSE110AApril19_sp2024.pdf)| EAC Chapter 3.2
 | Mon, April 22    | Associativity and top-down parsing           | [slides](lectures/CSE110AApril22_sp2024.pdf)| | EAC Chapter 3.3 (first half)
 | Wed, April 24    | Left recursion and lookahead in parsing      | [slides](lectures/CSE110AApril24_sp2024.pdf)| EAC Chapter 3.3 (first half)
-| Fri, April 26    | Recursive descent parsers and symbol tables          | | EAC Chapter 3.3 (first half)
+| Fri, April 26    | Recursive descent parsers and symbol tables  | [slides](lectures/CSE110AApril26_sp2024.pdf)  | EAC Chapter 3.3 (first half)
 | Mon, April 29    | Symbol Tables and parser generators                            | | [ply documentation](https://www.dabeaz.com/ply/ply.html)
 
 
