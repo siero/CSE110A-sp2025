@@ -30,7 +30,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, April 22    | Associativity and top-down parsing           | [slides](lectures/CSE110AApril22_sp2024.pdf)  | EAC Chapter 3.3 (first half)
 | Wed, April 24    | Left recursion and lookahead in parsing      | [slides](lectures/CSE110AApril24_sp2024.pdf)  | EAC Chapter 3.3 (first half)
 | Fri, April 26    | Recursive descent parsers and symbol tables  | [slides](lectures/CSE110AApril26_sp2024.pdf)  | EAC Chapter 3.3 (first half)
-| Mon, April 29    | Symbol Tables and parser generators          | [slides](lectures/CSE110AApril26_sp2024.pdf)  | [ply documentation](https://www.dabeaz.com/ply/ply.html)
+| Mon, April 29    | Symbol Tables and parser generators          | [slides](lectures/CSE110AApril29_sp2024.pdf)  | [ply documentation](https://www.dabeaz.com/ply/ply.html)
 
 
 
@@ -38,7 +38,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, May 1       | Intro to IRs and ASTs                     |  | EAC Chapter 5.1
+| Wed, May 1       | Intro to IRs and ASTs                     | [slides](lectures/CSE110AMay1_sp2024.pdf) | EAC Chapter 5.1
 | Fri, May 3       | ASTs and type checking                    |  | EAC Chapter 4.2
 | Mon, May 6       | MIDTERM                                   |  |
 | Wed, May 8       | ASTs and type checking 2                   |  | EAC Chapter 4.2
