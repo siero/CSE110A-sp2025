@@ -41,7 +41,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, May 1       | Intro to IRs and ASTs                     | [slides](lectures/CSE110AMay1_sp2024.pdf) | EAC Chapter 5.1
 | Fri, May 3       | ASTs and type checking                    | [slides](lectures/CSE110AMay3_sp2024.pdf)| EAC Chapter 4.2
 | Mon, May 6       | MIDTERM                                   |  |
-| Wed, May 8       | ASTs and type checking 2                   |  | EAC Chapter 4.2
+| Wed, May 8       | ASTs and type checking 2                   | [slides](lectures/CSE110AMay8_sp2024.pdf) | EAC Chapter 4.2
 | Fri, May 10      | ASTs and type checking 3                  |  | EAC Chapter 5.3
 | Mon, May 13      | Converting statements into 3 address code |  | EAC Chapter 5.3
 | Wed, May 15      | Converting statements into 3 address code |  | EAC Chapter 5.3
