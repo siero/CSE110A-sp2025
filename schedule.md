@@ -43,8 +43,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, May 6       | MIDTERM                                   |  |
 | Wed, May 8       | ASTs and type checking 2                   | [slides](lectures/CSE110AMay8_sp2024.pdf) | EAC Chapter 4.2
 | Fri, May 10      | ASTs and type checking 3                  |  [slides](lectures/CSE110AMay10_sp2024.pdf) | EAC Chapter 5.3
-| Mon, May 13      | Converting statements into 3 address code |  | EAC Chapter 5.3
-| Wed, May 15      | Converting statements into 3 address code |  | EAC Chapter 5.3
+| Mon, May 13      | Converting statements into 3 address code |  [slides](lectures/CSE110AMay13_sp2024.pdf)| EAC Chapter 5.3
+| Wed, May 15      | CANCELED |  |
 
 ### Module 4: Optimizations
 
