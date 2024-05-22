@@ -54,9 +54,9 @@ With cmd (Command Prompt):
 docker run --name cse110a -v %cd%:/assignments -it reeselevine/cse113:latest bash
 ```
 
-You should be running inside the container at this point. Running `ls` should list your files. At any point, to exit the container just type `exit`. Once you exit the container you can re-run the existing container either via the Docker Desktop UI by clicking the "run" icon within the list of available containers, or by the following command in a terminal/powershell/cmd instance:
+You should be running inside the container at this point. Running `ls` should list your files. At any point, to exit the container just type `exit`. Once you exit the container you can re-run the existing container either via the Docker Desktop UI by clicking the "run" icon within the list of available containers, or by running the following command in a terminal/powershell/cmd instance:
 
-Start the container. Add -i if you want an interactive shell. Once the container is started you can start using it if you passed -i, or connect to the container in VSCode.
+Start the container with `docker start cse110a`: Add `-i` if you want an interactive shell. Once the container has started, you can use the shell if you passed `-i`, or you can connect to the container in VSCode.
 
 ```
 docker start cse110a -i
