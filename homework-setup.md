@@ -33,11 +33,11 @@ Homework skeletons will be included in your created GitHub Classroom repository.
 
 There is good support for Docker-VSCode integration using the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension. This allows you to hook into the Docker environment within VSCode, letting you access files and the terminal just as you would on your host system.
 
-When you’re ready to start the container **make sure you’re in the top level homework directory** When you mount this directory within docker the permissions will change, so make sure you aren't in a directory that you don't want to lose access to. Once you are ready, run the following command depending on your system:
+When you’re ready to create the container **make sure you’re in the top level homework directory** When you mount this directory within docker the permissions will change, so make sure you aren't in a directory that you don't want to lose access to. Once you are ready, run the following command depending on your system:
 
 ### On Linux/macOS
 ```
-docker run -v "$(pwd)":/assignments -it reeselevine/cse113:latest bash
+docker run --name cse110a -v "$(pwd)":/assignments -it reeselevine/cse113:latest bash
 ```
 
 ### On Windows 
@@ -45,27 +45,21 @@ docker run -v "$(pwd)":/assignments -it reeselevine/cse113:latest bash
 With Powershell (should work on both [Powershell 7](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2) and Windows Powershell):
 
 ```
-docker run -v ${pwd}:/assignments -it reeselevine/cse113:latest bash
+docker run --name cse110a -v ${pwd}:/assignments -it reeselevine/cse113:latest bash
 ```
 
 With cmd (Command Prompt): 
 
 ```
-docker run -v %cd%:/assignments -it reeselevine/cse113:latest bash
+docker run --name cse110a -v %cd%:/assignments -it reeselevine/cse113:latest bash
 ```
 
-You should be running inside the container at this point. Running `ls` should list your files. At any point, to exit the container just type `exit`. Once you exit the container you can re-run the existing container either via the Docker Desktop UI by clicking the "run" icon within the list of available containers, or by the following commands in a terminal/powershell/cmd instance:
+You should be running inside the container at this point. Running `ls` should list your files. At any point, to exit the container just type `exit`. Once you exit the container you can re-run the existing container either via the Docker Desktop UI by clicking the "run" icon within the list of available containers, or by running the following command in a terminal/powershell/cmd instance:
 
-First list the available containers to get the assigned name from the NAMES column. 
-
-```
-docker ps -a
-```
-
-Start the container. Add -i if you want an interactive shell. Once the container is started you can start using it if you passed -i, or connect to the container in VSCode.
+Start the container with `docker start cse110a`: Add `-i` if you want an interactive shell. Once the container has started, you can use the shell if you passed `-i`, or you can connect to the container in VSCode.
 
 ```
-docker start <name> -i
+docker start cse110a -i
 ```
 
 At this point, you can edit your code and run it by following the instructions on the homework. Any changes you make to your files inside the container will persist when the container exits.
