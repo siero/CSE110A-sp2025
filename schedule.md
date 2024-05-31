@@ -54,8 +54,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, May 20      |  Optimization overview                              |  [slides](lectures/CSE110AMay20_sp2024.pdf)| EAC Chapter 8.1
 | Wed, May 22      |  CANCELED                                           |  | 
 | Fri, May 25      |  Local value numbering                              |  Continuation of previous slides | EAC Chapter 8 (up to 8.5)
-| Wed, May 29      |  Local value numbering 2                            |   [slides](lectures/CSE110AMay29_sp2024.pdf)| EAC Chapter 8 (up to 8.6)
-| Fri, May 31      |  Loop transforms                                    |  | EAC Chapter 7.8
+| Wed, May 29      |  Local value numbering 2                            |   [slides](lectures/CSE110AMay29_sp2024.pdf)  | EAC Chapter 8 (up to 8.6)
+| Fri, May 31      |  Loop transforms                                    |   [slides](lectures/CSE110AMay31_sp2024.pdf)  | EAC Chapter 7.8
 | Mon, June 3      |  Loop transforms 2                                  |  | EAC Chapter 7.8
 | Wed, June 5      |  Live variable Analysis                                      |  | EAC Chapter 8.6.1
 | Fri, June 7      |  Class review                                       |  | 
