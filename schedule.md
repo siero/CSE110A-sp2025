@@ -56,8 +56,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, May 25      |  Local value numbering                              |  Continuation of previous slides | EAC Chapter 8 (up to 8.5)
 | Wed, May 29      |  Local value numbering 2                            |   [slides](lectures/CSE110AMay29_sp2024.pdf)  | EAC Chapter 8 (up to 8.6)
 | Fri, May 31      |  Loop transforms                                    |   [slides](lectures/CSE110AMay31_sp2024.pdf)  | EAC Chapter 7.8
-| Mon, June 3      |  Loop transforms 2                                  |  | EAC Chapter 7.8
-| Wed, June 5      |  Live variable Analysis                                      |  | EAC Chapter 8.6.1
+| Mon, June 3      |  Loop transforms 2                                  |  [slides](lectures/CSE110AJune3_sp2024.pdf) | EAC Chapter 7.8
+| Wed, June 5      |  Parsing with Derivitives                                      |  | EAC Chapter 8.6.1
 | Fri, June 7      |  Class review                                       |  | 
 
 ## Final
