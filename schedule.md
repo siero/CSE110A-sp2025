@@ -58,7 +58,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, May 31      |  Loop transforms                                    |   [slides](lectures/CSE110AMay31_sp2024.pdf)  | EAC Chapter 7.8
 | Mon, June 3      |  Loop transforms 2                                  |  [slides](lectures/CSE110AJune3_sp2024.pdf) | EAC Chapter 7.8
 | Wed, June 5      |  Continue loop transforms and ins. sched.           |  [slides](lectures/CSE110AJune5_sp2024.pdf)| EAC Chapter 8.6.1
-| Fri, June 7      |  Class review                                       |  | 
+| Fri, June 7      |  Class review                                       |  [slides](lectures/CSE110AJune7_sp2024.pdf)| 
 
 ## Final
 
