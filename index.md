@@ -18,4 +18,7 @@ The last few years have been difficult due to the COVID pandemic and extreme wea
 
 That said, this class is scheduled to be _in person_. This is not an asynchronous class, and it is known that learning outcomes will suffer if you do not attend the synchronous lectures. I may post lectures online for extra study materials, but you should not expect them to be an equitable substitute for in-person attendence (e.g. they do not capture discussions well, and occasionaly the equiptment has errors). If your situation requires asynchronous courses, I suggest you contact an undergraduate adviser to discuss alternative options.
 
-This page is based on the webpage for UCSC's Fall 2020 CSE232 class. Thanks to [Professor Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) for a great template!
+This page is based on the webpage for UCSC's Fall 2020 CSE232 class and Spring 2024 CSE110A classes. 
+Thanks to [Professor Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) 
+and [Professor Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/) 
+for the great template and content!
