@@ -9,7 +9,7 @@ paginate_path: /page:num/
 
 repository: "<UserName>/CSE110A-sp2025"
 
-baseurl: "/CSE110A-sp2024"
+baseurl: "/CSE110A-sp2025"
 
 plugins:
   - jekyll-feed
