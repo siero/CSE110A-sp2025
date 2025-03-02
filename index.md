@@ -17,14 +17,18 @@ of the [foundational problems in computer science](https://en.wikipedia.org/wiki
 compilers are [massive pieces of well-oiled software](https://www.phoronix.com/scan.php?page=news_item&px=MTg3OTQ), 
 and are some of the engineering marvels of the modern world. 
 
-We have experieced several years of health issues and extreme weather conditions. Our first priority in this class 
+For numerous years we have experieced health issues and extreme weather conditions. Our first priority in this class 
 is your health and well-being. We will approach any challenges that arise with compassion and understanding. 
-I expect that you will do the same, both to the teaching staff and to your classmates. We will follow university 
-guidelines and work together to have a productive and fun quarter.
+I expect that you will do the same, both to the teaching staff and to your classmates. 
+We will follow university guidelines and will work together to have a productive and fun quarter.
 
-This class is scheduled to be _in person_. Learning outcomes will suffer if you do not attend lectures.  We may post lectures online for extra study materials, but you should not expect this to be an equitable substitute for in-person attendence (e.g. these do not capture discussions well, and occasionaly the equiptment has errors). If your situation requires asynchronous courses, I suggest you contact an undergraduate adviser to discuss alternative options.
+This class is scheduled to be _in person_. Learning outcomes will definitely suffer if you do not attend lectures.  
+We may post lectures online for extra study materials, but you should not expect this to be an equitable substitute 
+for in-person attendence (e.g. these do not capture discussions well, and occasionaly the equiptment has errors). 
+If your situation requires asynchronous courses, I suggest you contact an undergraduate adviser to discuss 
+alternative options.
 
 This page is based on the webpage for UCSC's Fall 2020 CSE232 class and Spring 2024 CSE110A classes. 
 Thanks to [Professor Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) 
 and [Professor Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/) 
-for the great template and content!
+for the great template and for a lot of the content of this class!

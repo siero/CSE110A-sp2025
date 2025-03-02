@@ -26,8 +26,8 @@ occuring in computing today, these are valuable skills.
 We have a great teaching staff this quarter! All of them have lots of experience in compilers. 
 Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TAs*: Sakshi Garg, Rithik Sharma
-- *Undergrad Mentors/Graders*: Kaushal Anbarasan, Khushali Dhomse, Jack Lund, Ryan Nelson, Ananthajit Srikanth
+- *Grad TAs*: Rithik Sharma, Patrik Doshi 
+- *Undergrad Mentors/Graders*: (TBD 5 staff members)
 
 ## Necessary Background
 
@@ -67,7 +67,7 @@ _Non-protected materials_ will be hosted on this website. This includes the
  schedule, lecture slides, and references, etc.
 
 _Protected materials_ will be hosted on a Canvas website that you will need your university 
-credentials to access. These materials include homeworks, lecture recordings, tests, grades, etc.
+credentials to access it. These materials include homeworks, lecture recordings, tests, grades, etc.
 
 We plan to host a class forum, likely in Piazza. If you organize other forums outside of the 
 class Piazza, please adhere to academic integrity.
@@ -85,7 +85,7 @@ and may not be able to see the white board.
 ## Quiz
 
 There will be a quiz for each lecture. These quizes will be assigned immediately after 
-class and you will have until the next class starts to do them. . These are meant to 
+class and you will have until the next class starts to do them. These are meant to 
 test your understanding, and will not be graded for correctness, but instead, graded 
 for engagement. Any multiple choice question will be awarded full points: any open 
 response question will be graded on if there was some sign of engagement (e.g., a 
@@ -107,11 +107,11 @@ services to contact DRC by phone at 831-459-2089 or by email at drc@ucsc.edu.
 
 ### Instructor Office Hours:
 
-I will provide 2 office hours per week: Thursday 3 - 5 PM
+I will provide 2 office hours per week: Tuesday and Thursday 4-5 PM
 
-My office hours can be remote or in-person. My physical office is E2-233. I will provide 
-a zoom link closer to the time. I manage the office hours through a Google doc sign-up sheet. 
-I will reset the list around noon on Thursday and notify with a canvas announcement. 
+My office hours can be remote or in-person. My physical office is E2-249A. I will provide 
+a zoom link closer to that time. I manage the office hours through a Google doc sign-up sheet. 
+I will reset the list around noon on Tuesday and notify with a canvas announcement. 
 Any name on the list before then will be erased.
 
 Please sign up for only 1 slot at a time. If there is no other student waiting at the end 
@@ -126,24 +126,23 @@ to the schedule. Please forgive any abruptness.
 
 | Day and Time | TA | location/Zoom Link|
 |---|---|---|
-| Tuesday 3 - 4 PM | Rithik | BE-151 |
-| Wednesday 4 - 5 PM | Sakshi | E2-216 |
-| Thursday 10 - 11 AM | Rithik | Virtually |
-| Thursday 2 - 3 PM | Sakshi | E2-216 |
+| <Weekday> ? - ? AM/PM | Rithik | BE-???/Virtually |
+| <Weekday> ? - ? AM/PM | Sakshi | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Rithik | Virtually/Virtually |
+| <Weekday> ? - ? AM/PM | Sakshi | E2-???/Virtually |
 
 ### Mentoring Hours:
 
 | Day and Time | Mentor | location/Zoom Link|
 |---|---|---|
-| Monday 11 AM - 12 PM | Kaushal | Zoom|
-| Monday 12:30 - 1:30 PM  | Ryan | in-person (location TBD) |
-| Monday 4 - 5 PM | Ananth | in-person (location TBD) |
-| Tuesday 5 - 6 PM | Kaushal | in-person (location TBD) |
-| Wednesday 1 - 2 PM | Jack |  Zoom |
-| Thursday 11:30 AM - 12:30 PM | Ryan | Zoom |
-| Friday 11 AM - 12 PM | Jack | in-person (location TBD) |
-| Friday 4 - 5 PM | Ananth |  Zoom |
-
+| Monday 11 AM - 12 PM | <name> | Zoom|
+| Monday 12:30 - 1:30 PM  | <name> | in-person (location TBD) |
+| Monday 4 - 5 PM | <name> | in-person (location TBD) |
+| Tuesday 5 - 6 PM | <name> | in-person (location TBD) |
+| Wednesday 1 - 2 PM | <name> |  Zoom |
+| Thursday 11:30 AM - 12:30 PM | <name> | Zoom |
+| Friday 11 AM - 12 PM | <name> | in-person (location TBD) |
+| Friday 4 - 5 PM | <name> |  Zoom |
 
 ## Asynchronous Communication
 
@@ -170,12 +169,11 @@ feedback. To do this, we will use github classroom. Because this is a new setup,
 there may be some friction getting started. We appreciate your patience and 
 understanding. I will update the class as we make progress.
 
-While we don't have all the details yet, we will provide a docker for you to 
-develop in. We plan to enable a git-based workflow where you push your current 
-solution to a repo and receive feedback from a server. You will be graded on 
-the server feedback rather than the results from your own machine. This is 
-to help provide fair (and scalable) grading across the increasing diversity 
-of devices that everyone has these days. 
+We will provide a docker for you to develop in. We plan to enable a git-based 
+workflow where you push your current solution to a repo and receive feedback 
+from a server. You will be graded on the server feedback rather than the results 
+from your own machine. This is to help provide fair (and scalable) grading 
+across the increasing diversity of devices that everyone has these days. 
 
 Homeworks are due at midnight on their due date, but do not plan on help after 5 pm.
 
@@ -192,8 +190,9 @@ There will be two tests in this course: a midterm and a final. The midterm will
 roughly be worth as much as a single homework assignment (~10%). The final 
 will be worth 30%.
 
-The midterm will be given halfway through the class: Friday May 6th during lecture time
-The final will be given on: Monday, June 10	12:00–3:00 PM
+The midterm will be given halfway through the class. The date is yet to be determined.
+Please look at canvas announcment for details.
+The final will be given on: Monday, June 9	7:30–10:30 p.m.
 
 ## Grade Breakdown
 
@@ -233,7 +232,7 @@ be respectful and kind and assume everyone can see what you are typing.
 
 ## Acknowledgements
 
-This page is based off of Professors
+This page is based off of work by professors
 [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)'s CSE232, Fall 2020 website
 [Tyler Sorenson](https://users.soe.ucsc.edu/~tsorensen/)'s CSE110A Spring 2024 website
 
