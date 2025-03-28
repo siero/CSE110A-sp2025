@@ -26,7 +26,7 @@ occuring in computing today, these are valuable skills.
 We have a great teaching staff this quarter! All of them have lots of experience in compilers. 
 Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TAs*: Rithik Sharma, Patrik Doshi 
+- *Grad TAs*: Rithik Sharma <rithik@ucsc.edu>, Yanwen Xu <yxu83@ucsc.edu>
 - *Undergrad Mentors/Graders*: (TBD 5 staff members)
 
 ## Necessary Background
