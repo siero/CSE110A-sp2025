@@ -9,10 +9,10 @@ _This schedule is tentative, based on previous offerings. We may change topics. 
 
 _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC), see the references [page](https://sorensenucsc.github.io/CSE110A-sp2024/references.html)_
 
-### Module 1: Lexing
-### Module 2: Parsing
-### Module 3: Intermediate representations
-### Module 4: Extra Topics TBD: Optimization|RISC-V code|Linkers/Debuggers/Execuratbles
+### Module 1: Lexing   
+### Module 2: Parsing   
+### Module 3: Intermediate representations   
+### Module 4: Optimization and Other Topics (TBD)   
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
