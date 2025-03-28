@@ -8,7 +8,7 @@ layout: single
 
 - **Instructor:** [Marcelo Siero](https://campusdirectory.ucsc.edu/cd_detail?uid=msiero2)
 - **Time:** Tuesdays and Thursdays:  05:20 - 06:55 PM
-- **Location:** Oakes Acad 105
+- **Location:** Stevenson Acad 175
 
 Hello and welcome to the fundamentals of compiler design class! 
 
