@@ -32,8 +32,9 @@ CLI, but the desktop app provides the same functionality and may be easier to us
 After installing Docker, run the following command: 
 
 ```
-docker pull reeselevine/cse113:latest
+docker pull <for now: wait for first class - to download this docker>
 ```
+<!-- reeselevine/cse113:latest -->
 
 When running, the container includes everything necessary for the homework to work correctly, 
 namely `python3`, C++ compilers, and `make`. It also includes two text editors, 

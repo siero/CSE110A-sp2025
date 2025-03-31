@@ -126,23 +126,23 @@ to the schedule. Please forgive any abruptness.
 
 | Day and Time | TA | location/Zoom Link|
 |---|---|---|
-| <Weekday> ? - ? AM/PM | Rithik | BE-???/Virtually |
-| <Weekday> ? - ? AM/PM | Sakshi | E2-???/Virtually |
-| <Weekday> ? - ? AM/PM | Rithik | Virtually/Virtually |
-| <Weekday> ? - ? AM/PM | Sakshi | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Rithik | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Yanwen | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Rithik | E2-???/Virtually |
+| <Weekday> ? - ? AM/PM | Yanwen | E2-???/Virtually |
 
 ### Mentoring Hours:
 
 | Day and Time | Mentor | location/Zoom Link|
 |---|---|---|
-| Monday 11 AM - 12 PM | <name> | Zoom|
-| Monday 12:30 - 1:30 PM  | <name> | in-person (location TBD) |
-| Monday 4 - 5 PM | <name> | in-person (location TBD) |
-| Tuesday 5 - 6 PM | <name> | in-person (location TBD) |
-| Wednesday 1 - 2 PM | <name> |  Zoom |
-| Thursday 11:30 AM - 12:30 PM | <name> | Zoom |
-| Friday 11 AM - 12 PM | <name> | in-person (location TBD) |
-| Friday 4 - 5 PM | <name> |  Zoom |
+| TBD(Day) (Time) | <name> | Zoom|
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
+| TBD (Day) (Time) | <name> | in-person (location TBD) |
 
 ## Asynchronous Communication
 
