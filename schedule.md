@@ -16,8 +16,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tue, April 1     | Amdin    | [slides](./PDFS/C110-01A-Admin.pdf) | [Overview page](https://siero.github.io/CSE110A-sp2025/overview.html)
-| 				   | Intro    | [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) | "" 
+| Tue, April 1     | Admin    | [slides](./PDFS/C110-01A-Admin.pdf) | [Overview page](https://siero.github.io/CSE110A-sp2025/overview.html)
+| 				   | Intro    | [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) | 
 | Thu, April 4     | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
 | Tue, April 8     | <TBD>    | <TBD>  | <TBD> 
