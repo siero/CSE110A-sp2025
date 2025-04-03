@@ -16,10 +16,12 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tue, April 1     | Admin    | [slides](./PDFS/C110-01A-Admin.pdf) | [Overview page](https://siero.github.io/CSE110A-sp2025/overview.html)
+| Tue, April 1     | Admin (v2) | [slides](./PDFS/C110-01A-Admin-v2.pdf) | [Overview page](https://siero.github.io/CSE110A-sp2025/overview.html)
 | 				   | Intro    | [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) | 
 | 				   | Journey into a Compiler | [slides](./PDFS/02A-Journey-Into-A-Compiler.pdf) | 
 | Thu, April 4     | <TBD>    | <TBD>  | <TBD> 
+| 				   | Intro to Lexers   | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf) | 
+| 				   | Lexer: Naive      | [slides](./PDFS/C110-03A-lexers-naive.pdf) | 
 |------------------|----------|--------|----------------
 | Tue, April 8     | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 10    | <TBD>    | <TBD>  | <TBD> 
@@ -51,4 +53,3 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 ## Final
 
-Our final is scheduled for Monday, June 9, 7:30–10:30 PM
