@@ -9,17 +9,14 @@ _This schedule is tentative, based on previous offerings. We may change topics. 
 
 _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC), see the references [page](https://sorensenucsc.github.io/CSE110A-sp2024/references.html)_
 
-### Module 1: Lexing   
-### Module 2: Parsing   
-### Module 3: Intermediate representations   
-### Module 4: Optimization and Other Topics (TBD)   
 
+### Module 1: Lexing   
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Tue, April 1     | Admin (v3) | [slides](./PDFS/C110-01A-Admin-v3.pdf) | [Overview page](https://siero.github.io/CSE110A-sp2025/overview.html)
 | 				   | Intro    | [slides](./PDFS/C110-01B-Intro2Compilers1.pdf) | 
-| 				   | Journey into a Compiler | [slides](./PDFS/02A-Journey-Into-A-Compiler.pdf) | 
-| Thu, April 4     | Intro to Lexers   | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf) | 
+| 				   | Journey into a Compiler | [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) | 
+| Thu, April 4     | Intro to Lexers   | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf) | EAC Chapter 1.
 | 				   | Lexer: Naive      | [slides](./PDFS/C110-03A-lexers-naive.pdf) | 
 |------------------|----------|--------|----------------
 | Tue, April 8     | <TBD>    | <TBD>  | <TBD> 
@@ -27,6 +24,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|----------|--------|----------------
 | Tue, April 15    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
+|------------------|----------|--------|----------------
+### Module 2: Parsing  (Estimated Date) 
 |------------------|----------|--------|----------------
 | Tue, April 22    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
@@ -37,11 +36,15 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 06      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 08      | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
+### Module 3: Intermediate representations (Estimated Date) 
+|------------------|----------|--------|----------------
 | Tue, May 13      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 15      | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
 | Tue, May 20      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 22      | <TBD>    | <TBD>  | <TBD> 
+|------------------|----------|--------|----------------
+### Module 4: Optimization and Other Topics (TBD, Estimated Date)   
 |------------------|----------|--------|----------------
 | Tue, May 27      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 29      | <TBD>    | <TBD>  | <TBD> 
@@ -49,6 +52,5 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 03      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 05      | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
-
 ## Final
 
