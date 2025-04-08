@@ -19,9 +19,11 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | Journey into a Compiler | [slides](./PDFS/C110-02A-Journey-Into-A-Compiler.pdf) | 
 | Thu, April 4     | Introduction to Lexical Analysis  | [slides](./PDFS/C110-01C-Intro2Compilers2.pdf) | EAC Chapter 1
 | 				   | Lexer: Naive      | [slides](./PDFS/C110-03A-lexers-naive.pdf) | 
-|------------------|----------|--------|----------------   
-| Tue, April 8     | <TBD>    | <TBD>  | <TBD> 
-| Thu, April 10    | <TBD>    | <TBD>  | <TBD> 
+|------------------|-------------------|--------------------------------------------|
+| Tue, April 8     | Quiz 1: Intro | [quiz1](./PDFS/Quiz-01-Init-Survey.pdf) |      |
+|                  | Quiz 2: Warnings, Errors, Equivalences | [quiz1](./PDFS/Quiz-02-Warnings-Errors-Equiv.pdf) ||
+C110-01A-Admin-v3.pdf) | |
+|                  | Lexer: RE         | [slides](./PDFS/C110-04A-lexers-re.pdf) |  |
 |------------------|----------|--------|----------------
 | Tue, April 15    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
