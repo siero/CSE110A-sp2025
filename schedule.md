@@ -22,7 +22,11 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|-------------------|--------------------------------------------|
 | Tue, April 8     | Quiz 1: Intro | [quiz1](./PDFS/Quiz-01-Init-Survey.pdf) |      |
 |                  | Quiz 2: Warnings, Errors, Equivalences | [quiz2](./PDFS/Quiz-02-Warnings-Errors-Equiv.pdf) ||
+|------------------|-------------------|--------------------------------------------|
+| Thu, April 10    | Quiz-04: RE 	   | [quiz1](./PDFS/Quiz-04-REs.pdf) |          |
 |                  | Lexer: RE         | [slides](./PDFS/C110-04A-lexers-re.pdf) |  |
+|                  | Lexer: EM-SOS-NG  | [slides](./PDFS/ C110-05A-lexers-EM-SOS-NG_v2.pdf) |  |
+|                  | Lexer: lexer-actions | [slides](./PDFS/C110-06A-lexer-actions-v2.pdf)  |  | 
 |------------------|----------|--------|----------------
 | Tue, April 15    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
