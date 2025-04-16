@@ -33,10 +33,10 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Thu, April 15    | Quiz-05: EM-SOS-NG-Actions | [quiz5](/PDFS/Quiz-05-EM-SOS-NG-Scanner-Actions.pdf)  | EAC Chapter 3.2, 3.3 (first half) |
-| 				   | CFG and Ambiguous Grammars   | [slides](PDFS/C110-07A-CFG-Ambig-rev2.pdf)            | |
-| 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)           | |
-| Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
+| Thu, April 15    | Quiz-05: EM-SOS-NG-Actions   | [quiz5](/PDFS/Quiz-05-EM-SOS-NG-Scanner-Actions.pdf)  	| EAC Chapter 3.2, 3.3 (first half) |
+| 				   | CFG and Ambiguous Grammars   | [slides](PDFS/C110-07A-CFG-Ambig-rev2.pdf)          	| |
+| 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)         	| |
+| Thu, April 17    | Top Down Parsing 			  | [slides](PDFS/C110-10A-TOP-DOWN-PARSING.pdf) 			| |
 |------------------|----------|--------|----------------
 | Tue, April 22    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
