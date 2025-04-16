@@ -28,15 +28,15 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | Lexer: EM-SOS-NG  | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG_v2.pdf) |  |
 |                  | Lexer: lexer-actions | [slides](./PDFS/C110-06A-lexer-actions-v2.pdf)  |  | 
 |------------------|------------------------------|-------------------------------------------------------|----------------
-| Thu, April 15    | Quiz-05: RE 	              | [quiz4](/PDFS/Quiz-05-EM-SOS-NG-Scanner-Actions.pdf)  | EAC Chapter 3.2, 3.3 (first half) |
-| 				   | CFG and Ambiguous Grammars   | [slides](PDFS/C110-07A-CFG-Ambig-rev2.pdf)            | |
-| 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)           | |
-| Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
-|------------------|----------|--------|----------------
 
 ### Module 2: Parsing  (Estimated Date) 
 
 | Date             | Topic    | Slides |   Readings
+|------------------|----------|--------|----------------
+| Thu, April 15    | Quiz-05: EM-SOS-NG-Actions | [quiz5](/PDFS/Quiz-05-EM-SOS-NG-Scanner-Actions.pdf)  | EAC Chapter 3.2, 3.3 (first half) |
+| 				   | CFG and Ambiguous Grammars   | [slides](PDFS/C110-07A-CFG-Ambig-rev2.pdf)            | |
+| 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)           | |
+| Thu, April 17    | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
 | Tue, April 22    | <TBD>    | <TBD>  | <TBD> 
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
