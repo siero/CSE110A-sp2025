@@ -39,7 +39,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, April 17    | Top Down Parsing 			  | [slides](PDFS/C110-10A-TOP-DOWN-PARSING-rev2.pdf) 		| |
 | 				   | 							  | [slides](PDFS/C110-10B-TOP-DOWN-PART2-rev1.pdf) 		| | [ply documentation](https://www.dabeaz.com/ply/ply.html) |
 |------------------|----------|--------|----------------
-| Tue, April 22	   | Recursive Descent Parsing 	  | [slides](PDFS/C110-11A-RECURSIVE-DESCENT-rev2.pdf) | |
+| Tue, April 22	   | Recursive Descent Parsing 	  | [slides](PDFS/C110-11A-RECURSIVE-DESCENT-rev1.pdf) | |
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
 | Tue, April 29    | <TBD>    | <TBD>  | <TBD> 
