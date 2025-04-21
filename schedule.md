@@ -37,7 +37,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | CFG and Ambiguous Grammars   | [slides](PDFS/C110-07A-CFG-Ambig-rev2.pdf)          	| |
 | 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)         	| |
 | Thu, April 17    | Top Down Parsing 			  | [slides](PDFS/C110-10A-TOP-DOWN-PARSING-rev2.pdf) 		| |
-| 				   | 							  | [slides](PDFS/C110-10B-TOP-DOWN-PART2-rev2.pdf) 		| | [ply documentation](https://www.dabeaz.com/ply/ply.html) |
+| 				   | 							  | [slides](PDFS/C110-10B-TOP-DOWN-PART2-rev1.pdf) 		| | [ply documentation](https://www.dabeaz.com/ply/ply.html) |
 |------------------|----------|--------|----------------
 | Tue, April 22	   | Recursive Descent Parsing 	  | [slides](PDFS/C110-11A-RECURSIVE-DESCENT-rev2.pdf) | |
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
