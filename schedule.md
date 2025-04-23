@@ -22,12 +22,12 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |------------------|-------------------|--------------------------------------------|
 | Tue, April 8     | Quiz 1: Intro     | [quiz1](./PDFS/Quiz-01-Init-Survey.pdf)                                ||
 |                  | Quiz 2: Warnings, Errors, Equivalences | [quiz2](./PDFS/Quiz-02-Warnings-Errors-Equiv.pdf) ||
-|------------------|-------------------|--------------------------------------------|
-| Thu, April 10    | Quiz-04: RE 	   | [quiz4](./PDFS/Quiz-04-REs.pdf) |          |
-|                  | Lexer: RE         | [slides](./PDFS/C110-04A-lexers-re.pdf) |  |
-|                  | Lexer: EM-SOS-NG  | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG_v2.pdf) |  |
+|------------------|-------------------|----------------------------------------------------|--|
+| Thu, April 10    | Quiz-04: RE 	   | [quiz4](./PDFS/Quiz-04-REs.pdf)                    |  |
+|                  | Lexer: RE         | [slides](./PDFS/C110-04A-lexers-re.pdf)            |  |
+|                  | Lexer: EM-SOS-NG  | [slides](./PDFS/C110-05A-lexers-EM-SOS-NG_v2.pdf)  |  |
 |                  | Lexer: lexer-actions | [slides](./PDFS/C110-06A-lexer-actions-v2.pdf)  |  | 
-|------------------|------------------------------|-------------------------------------------------------|----------------
+|------------------|------------------------------|-----------------------------------------|--|
 
 ### Module 2: Parsing  (Estimated Date) 
 
@@ -38,8 +38,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | 				   | Precedence and Associativity | [slides](PDFS/C110-09A-PREC-ASSOC-rev2.pdf)         	| |
 | Thu, April 17    | Top Down Parsing 			  | [slides](PDFS/C110-10A-TOP-DOWN-PARSING-rev2.pdf) 		| |
 | 				   | 							  | [slides](PDFS/C110-10B-TOP-DOWN-PART2-rev1.pdf) 		| | [ply documentation](https://www.dabeaz.com/ply/ply.html) |
-|------------------|------------------------------|--------|----------------
-| Tue, April 22	   | Quiz-06:CFG-AMBIG-PRECEDENCE | [slides](PDFS/Quiz-06-CFG-AMBIG-PREC.pdf) | | 
+|------------------|------------------------------|--------|-------------------------------------------|-|
+| Tue, April 22	   | Quiz-06:CFG-AMBIG-PRECEDENCE | [slides](PDFS/Quiz-06-CFG-AMBIG-PREC.pdf)          | | 
 | 				   | Right and Left Derivations	  | [slides](PDFS/C110-11B-RIGHT-LEFT-DERIVATIONS.pdf) | | 
 |				   | Recursive Descent Parsing 	  | [slides](PDFS/C110-11A-RECURSIVE-DESCENT-rev2.pdf) | |
 | Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
