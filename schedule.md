@@ -39,10 +39,11 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, April 17    | Top Down Parsing 			  | [slides](PDFS/C110-10A-TOP-DOWN-PARSING-rev2.pdf) 		| |
 | 				   | 							  | [slides](PDFS/C110-10B-TOP-DOWN-PART2-rev1.pdf) 		| | [ply documentation](https://www.dabeaz.com/ply/ply.html) |
 |------------------|------------------------------|--------|-------------------------------------------|-|
-| Tue, April 22	   | Quiz-06:CFG-AMBIG-PRECEDENCE | [quiz6](PDFS/Quiz-06-CFG-AMBIG-PREC.pdf)          | | 
+| Tue, April 22	   | Quiz-06:CFG-AMBIG-PRECEDENCE | [quiz6](PDFS/Quiz-06-CFG-AMBIG-PREC.pdf)           | | 
 | 				   | Right and Left Derivations	  | [slides](PDFS/C110-11B-RIGHT-LEFT-DERIVATIONS.pdf) | | 
 |				   | Recursive Descent Parsing 	  | [slides](PDFS/C110-11A-RECURSIVE-DESCENT-rev2.pdf) | |
-| Thu, April 24    | <TBD>    | <TBD>  | <TBD> 
+| Thu, April 24    | Scope						  | [slides](PDFS/C110-13A-SCOPE.pdf) 				   | | 
+|				   | Review: Top Down, Rec Descent| [slides](PDFS/C110-12B-REVIEW-TOP-DOWN-PART2-rev2.pdf) | |  
 |------------------|----------|--------|----------------
 | Tue, April 29    | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 01      | <TBD>    | <TBD>  | <TBD> 
