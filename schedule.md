@@ -45,16 +45,18 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, April 24    | Scope						  | [slides](PDFS/C110-13A-SCOPE.pdf) 				   | | 
 |				   | Review: Top Down, Rec Descent| [slides](PDFS/C110-12B-REVIEW-TOP-DOWN-PART2-rev2.pdf) | |  
 |------------------|----------|--------|----------------
-| Tue, April 29    | <TBD>    | <TBD>  | <TBD> 
-| Thu, May 01      | <TBD>    | <TBD>  | <TBD> 
-|------------------|----------|--------|----------------
-| Tue, May 06      | <TBD>    | <TBD>  | <TBD> 
-| Thu, May 08      | <TBD>    | <TBD>  | <TBD> 
+| Tue, April 29	   | Quiz-07-AMBIG-TOP-DOWN-REC-DESC | [quiz7](PDFS/Quiz-07-AMB-TOP-DOWN-REC-DESC.pdf)  | |
+|				   | EXAM-MIDTERM-STUDY-GUIDE        | [slides](PDFS/C110-EXAM-MIDTERM-STUDY-GUIDE.pdf) | |
+|				   | BOTTOM-UP-PARSING 				 | [slides](PDFS/C110-12D-BOTTOM-UP-PARSING.pdf)    | |
+| Thu, May 01      | <TBD>    						 | <TBD>                                            | <TBD> |
 |------------------|----------|--------|----------------
 
 ### Module 3: Intermediate representations (Estimated Date) 
 
 | Date             | Topic    | Slides |   Readings
+|------------------|----------|--------|----------------
+| Tue, May 06      | <TBD>    | <TBD>  | <TBD> 
+| Thu, May 08      | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
 | Tue, May 13      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 15      | <TBD>    | <TBD>  | <TBD> 
