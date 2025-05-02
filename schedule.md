@@ -50,7 +50,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |				   | BOTTOM-UP-PARSING 				    | [slides](PDFS/C110-12D-BOTTOM-UP-PARSING.pdf)    | |
 | Thu, May 01      | MIDTERM STUDY GUILD                | 
 REVIEW / BOTTOM-UP PARSING | [slides](PDFS/        | [slides](PDFS/C110-EXAM-MIDTERM-STUDY-GUIDE-rev2.pdf) | |
-|				   | MIDTERM REVIEW / BOTTOM-UP PARSING | [slides](PDFS/PDFS/PDFS/C110-MIDTERM-REVIEW.pdf) | |
+|				   | MIDTERM REVIEW / BOTTOM-UP PARSING | [slides](PDFS/C110-MIDTERM-REVIEW.pdf) | |
 |------------------|----------|--------|----------------
 
 ### Module 3: Intermediate representations (Estimated Date) 
