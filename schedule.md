@@ -57,8 +57,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tue, May 06      | <TBD>    | <TBD>  | <TBD> 
-| Thu, May 08      | <TBD>    | <TBD>  | <TBD> 
+| Tue, May 06      | MIDTERM  |        | 
+| Thu, May 08      | Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 | 
 |------------------|----------|--------|----------------
 | Tue, May 13      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 15      | <TBD>    | <TBD>  | <TBD> 
