@@ -60,12 +60,14 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 06      | MIDTERM  |        | 
 | Thu, May 08      | Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 | 
 |------------------|------------------------------|--------|---------|
-| Tue, May 13      | AST and TYPE Systems | <TBD>  | EAC Chapter 4.2 | 
-| Thu, May 15      | <TBD>    | <TBD>  | <TBD> 
-|------------------|----------|--------|----------------
-| Tue, May 20      | <TBD>    | <TBD>  | <TBD> 
-| Thu, May 22      | <TBD>    | <TBD>  | <TBD> 
-|------------------|----------|--------|----------------
+| Tue, May 13      | AST and TYPE Systems | Quiz:TBD  | EAC Chapter 4.2 | 
+|                  |                      | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf)  |   | 
+|                  |                      | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
+| Thu, May 15      | Intermediate Representations (IR) | <TBD>  | EAC Chapter 5.3 |
+|------------------|----------|--------|--------|
+| Tue, May 20      | <TBD>    | <TBD>  | <TBD>  |
+| Thu, May 22      | <TBD>    | <TBD>  | <TBD>  |
+|------------------|----------|--------|--------|
 
 ### Module 4: Optimization and Other Topics (TBD, Estimated Date)   
 
