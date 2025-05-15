@@ -63,7 +63,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 13      | AST and TYPE Systems | Quiz:TBD  | EAC Chapter 4.2 | 
 |                  |                      | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf)  |   | 
 |                  |                      | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
-| Thu, May 15      | Intermediate Representations (IR) | <TBD>  | EAC Chapter 5.3 |
+| Thu, May 15      | Intermediate Representations (IR) | [slide](C110-M3-04-FUNCTIONS-IR-SCOPE_rev2.pdf)| EAC Chapter 5.3 |
 |------------------|----------|--------|--------|
 | Tue, May 20      | <TBD>    | <TBD>  | <TBD>  |
 | Thu, May 22      | <TBD>    | <TBD>  | <TBD>  |
