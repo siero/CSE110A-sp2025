@@ -63,16 +63,17 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 13      | AST and TYPE Systems | Quiz:TBD  | EAC Chapter 4.2 | 
 |                  |                      | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf)  |   | 
 |                  |                      | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
-| Thu, May 15      | Intermediate Representations (IR) | [slide](C110-M3-04-FUNCTIONS-IR-SCOPE_rev2.pdf)| EAC Chapter 5.3 |
+| Thu, May 15      | Intermediate Representations (IR) | [slides](C110-M3-04-FUNCTIONS-IR-SCOPE_rev2.pdf)| EAC Chapter 5.3 |
 |------------------|----------|--------|--------|
-| Tue, May 20      | <TBD>    | <TBD>  | <TBD>  |
-| Thu, May 22      | <TBD>    | <TBD>  | <TBD>  |
+| Tue, May 20      | IR Representations (IR) / HW4 | [slides](C110-M3-04-FUNCTIONS-IR-SCOPE_rev3.pdf) | | 
 |------------------|----------|--------|--------|
 
 ### Module 4: Optimization and Other Topics (TBD, Estimated Date)   
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
+| Thu, May 22      | Local Optimizations / Basic Blocks | [slides](C110-M4-01-OPTIMIZATIONS.pdf) | EAC Chapter 8.1 |
+|------------------|----------|--------|--------|
 | Tue, May 27      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 29      | <TBD>    | <TBD>  | <TBD> 
 |------------------|----------|--------|----------------
