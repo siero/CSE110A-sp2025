@@ -72,7 +72,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Thu, May 22      | Local Optimizations / Basic Blocks | [slides](C110-M4-01-OPTIMIZATIONS.pdf) | EAC Chapter 8.1 |
+| Thu, May 22      | Quiz-08 TYPE and IR GEN | [Quiz 8](PDFS/Quiz-08-TYPE-AND-IR-GEN.pdf) | |
+|                  | Local Optimizations / Basic Blocks | [slides](PDFS/C110-M4-01-OPTIMIZATIONS_rev2.pdf) | EAC Chapter 8.1 |
 |------------------|----------|--------|--------|
 | Tue, May 27      | <TBD>    | <TBD>  | <TBD> 
 | Thu, May 29      | <TBD>    | <TBD>  | <TBD> 
