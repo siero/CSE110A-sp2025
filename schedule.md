@@ -75,10 +75,10 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Thu, May 22      | Quiz-08 TYPE and IR GEN | [Quiz 8](PDFS/Quiz-08-TYPE-AND-IR-GEN.pdf) | |
 |                  | Local Optimizations / Basic Blocks | [slides](PDFS/C110-M4-01-OPTIMIZATIONS_rev2.pdf) | EAC Chapter 8.1 |
 |------------------|-------------------|------------|--------|
-| Tue, May 27      | Basic Blocks/LVN  | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS_rev4.pdf)           | EAC Chapter 8.1 |
-|                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf)        |                 |  
-| 				   | LVN WO REGISTERS  | [slides](PDFS/C110-M4-01C-LVN-WO-ADDING-REGS-AND-SETS.pdf) | EAC Chap 8-8.6 |  
-| Thu, May 05      | <TBD>    | <TBD>  | <TBD> 
+| Tue, May 27      | Basic Blocks/LVN  | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS_rev4.pdf)          | EAC Chapter 8.1  |
+|                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf)        |                  |  
+| 				   | LVN WO REGISTERS  | [slides](PDFS/C110-M4-01C-LVN-WO-ADDING-REGS-AND-SETS.pdf) | EAC Chap 8-8.6   |  
+|Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)               | EAC Chap 7.8 	   |
 |------------------|----------|--------|----------------
 | Tue, June 03     | <TBD>    | <TBD>  | <TBD> 
 | Thu, June 05     | <TBD>    | <TBD>  | <TBD> 
