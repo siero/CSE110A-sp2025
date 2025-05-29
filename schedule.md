@@ -79,6 +79,9 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf)        |                  |  
 | 				   | LVN WO REGISTERS  | [slides](PDFS/C110-M4-01C-LVN-WO-ADDING-REGS-AND-SETS.pdf) | EAC Chap 8-8.6   |  
 |Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)               | EAC Chap 7.8 	   |
+|                  | Floating Point    | [slides](PDFS/12B_Floating_Point_rev6.pdf) | |  
+|                  | MIDTERM           | [slides](PDFS/C110-MIDTERM.pdf) | |  
+|                  | EXTRA CREDIT      | [slides](PDFS/EXTRA-CREDIT.pdf) | |  
 |------------------|----------|--------|----------------
 | Tue, June 03     | <TBD>    | <TBD>  | <TBD> 
 | Thu, June 05     | <TBD>    | <TBD>  | <TBD> 
