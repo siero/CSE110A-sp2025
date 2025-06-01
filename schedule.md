@@ -82,10 +82,11 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | Floating Point    | [slides](PDFS/12B_Floating_Point_rev6.pdf) | |  
 |                  | MIDTERM           | [slides](PDFS/C110-MIDTERM.pdf) | |  
 |                  | EXTRA CREDIT rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
-|------------------|----------|--------|----------------
+|------------------|-------------------|--------|----------------
 | Tue, June 03     | Presentation Signup Sheet (6/5) | ['Click Here'](https://docs.google.com/spreadsheets/d/1YYUmaIOHHvhKCN_mIvLdCtJvQQxWXuNkL6MhqQ40xFQ/edit?usp=sharing) | | 
-| Tue, June 05     | <TBD>    | <TBD>  | <TBD> |
-|------------------|----------|--------|-------|
+|                  | Class Review      | Slides Coming |       |
+| Tue, June 05     | EC Presentations  | Coming |       |
+|------------------|-------------------|--------|-------|
 
 ## Final
 
