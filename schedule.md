@@ -83,9 +83,9 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | MIDTERM           | [slides](PDFS/C110-MIDTERM.pdf) | |  
 |                  | EXTRA CREDIT rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
 |------------------|----------|--------|----------------
-| Tue, June 03     | <TBD>    | <TBD>  | <TBD> 
-| Thu, June 05     | <TBD>    | <TBD>  | <TBD> 
-|------------------|----------|--------|----------------
+| Tue, June 03     | Presentation Signup Sheet (6/5) | ['Click Here'](https://docs.google.com/spreadsheets/d/1YYUmaIOHHvhKCN_mIvLdCtJvQQxWXuNkL6MhqQ40xFQ/edit?usp=sharing) | | 
+| Tue, June 05     | <TBD>    | <TBD>  | <TBD> |
+|------------------|----------|--------|-------|
 
 ## Final
 
