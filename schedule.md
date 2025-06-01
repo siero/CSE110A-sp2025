@@ -81,7 +81,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)               | EAC Chap 7.8 	   |
 |                  | Floating Point    | [slides](PDFS/12B_Floating_Point_rev6.pdf) | |  
 |                  | MIDTERM           | [slides](PDFS/C110-MIDTERM.pdf) | |  
-|                  | EXTRA CREDIT rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
+|                  | EXTRA CREDIT DESCRIPTION rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
 |------------------|-------------------|--------|----------------
 | Tue, June 03     | Presentation Signup Sheet (6/5) | ['Click Here'](https://docs.google.com/spreadsheets/d/1YYUmaIOHHvhKCN_mIvLdCtJvQQxWXuNkL6MhqQ40xFQ/edit?usp=sharing) | | 
 |                  | Class Review      | Slides Coming |       |
