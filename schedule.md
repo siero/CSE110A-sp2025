@@ -84,8 +84,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | EXTRA CREDIT DESCRIPTION rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
 |------------------|-------------------|--------|----------------
 | Tue, June 03     | Presentation Signup Sheet (6/5) | ['Click Here'](https://docs.google.com/spreadsheets/d/1YYUmaIOHHvhKCN_mIvLdCtJvQQxWXuNkL6MhqQ40xFQ/edit?usp=sharing) | | 
-|                  | Review: Grammars/Amb/Prec/Assoc | [slides](PDFS/C110-FINAL-REVIEW-GRAMMARS-PRECEDENCE-ASSOCIATIVITY.pdf) |  | 
-|                  | Review: AST,IR,Basic Blocks, Optim | [slides](PDFS/C110-FINAL-REVIEW-AST-IR-BB-OPT.pdf) ||
+|    | Review: Grammars/Amb/Prec/Assoc | [slides](PDFS/C110-FINAL-REVIEW-GRAMMARS-PRECEDENCE-ASSOCIATIVITY.pdf) || 
+|    | Review: AST,IR,Basic Blocks, Optim rev2 | [slides](PDFS/C110-FINAL-REVIEW-AST-IR-BB-OPT-rev2.pdf) ||
 | Tue, June 05     | EC Presentations  | Coming |       |
 |------------------|-------------------|--------|-------|
 
