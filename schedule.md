@@ -10,7 +10,7 @@ _This schedule is tentative, based on previous offerings. We may change topics. 
 _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC), see the references [page](https://sorensenucsc.github.io/CSE110A-sp2024/references.html)_
 
 
-### Module 1: Lexing   
+### Module 1: Lexing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------   
@@ -29,7 +29,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | Lexer: lexer-actions | [slides](./PDFS/C110-06A-lexer-actions-v2.pdf)  |  | 
 |------------------|------------------------------|-----------------------------------------|--|
 
-### Module 2: Parsing  (Estimated Date) 
+### Module 2: Parsing
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -53,10 +53,10 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |				   | EXAMPLE OF POST-ORDER TRAVERSAL    | [slides](PDFS/C110-POSTORDER-TRAVERSAL-EXAMPLE.pdf) | |
 |------------------|------------------------------------|-----------------------------------------------------|-|
 
-### Module 3: Intermediate representations (Estimated Date) 
+### Module 3: Intermediate representations
 
-| Date             | Topic    | Slides |   Readings
-|------------------|----------|--------|----------------
+| Date             | Topic    | Slides |   Readings     |
+|------------------|----------|--------|----------------|
 | Tue, May 06      | MIDTERM  |        |                |
 | Thu, May 08      | Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 |
 |------------------|------------------------------|----------------------------------|-----------------|
@@ -68,7 +68,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 20      | IR Representations (IR) / HW4 | same slides as last Thursday | | | 
 |------------------|----------|--------|--------|
 
-### Module 4: Optimization and Other Topics (TBD, Estimated Date)
+### Module 4: Optimization and Other Topics 
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
