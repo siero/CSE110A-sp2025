@@ -70,8 +70,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 ### Module 4: Optimization and Other Topics (TBD, Estimated Date)   
 
-| Date             | Topic    | Slides |   Readings     |
-|------------------|----------|--------|----------------|
+| Date             | Topic    | Slides |   Readings     
+|------------------|----------|--------|----------------
 | Thu, May 22      | Quiz-08 TYPE and IR GEN | [Quiz 8](PDFS/Quiz-08-TYPE-AND-IR-GEN.pdf) | |
 |                  | Local Optimizations / Basic Blocks | [slides](PDFS/C110-M4-01-OPTIMIZATIONS_rev2.pdf) | EAC Chapter 8.1 |
 |------------------|----------|--------|----------------|
