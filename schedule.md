@@ -78,16 +78,16 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Tue, May 27      | Basic Blocks/LVN  | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS_rev4.pdf)          | EAC Chapter 8.1  |
 |                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf)        |                  |  
 | 				   | LVN WO REGISTERS  | [slides](PDFS/C110-M4-01C-LVN-WO-ADDING-REGS-AND-SETS.pdf) | EAC Chap 8-8.6   |  
-|Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf)               | EAC Chap 7.8 	   |
+|Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf) | EAC Chap 7.8 |
 |                  | Floating Point    | [slides](PDFS/12B_Floating_Point_rev6.pdf) | |  
 |                  | MIDTERM           | [slides](PDFS/C110-MIDTERM.pdf) | |  
 |                  | EXTRA CREDIT DESCRIPTION rev2 | [slides](PDFS/ExtraCredit_SP25-2.pdf) | |  
-|------------------|-------------------|--------|----------------
+|------------------|-------------------------------|---------------------------------------|-|
 | Tue, June 03     | Presentation Signup Sheet (6/5) | ['Click Here'](https://docs.google.com/spreadsheets/d/1YYUmaIOHHvhKCN_mIvLdCtJvQQxWXuNkL6MhqQ40xFQ/edit?usp=sharing) | | 
-|    | Review: Grammars/Amb/Prec/Assoc | [slides](PDFS/C110-FINAL-REVIEW-GRAMMARS-PRECEDENCE-ASSOCIATIVITY.pdf) || 
-|    | Review: AST,IR,Basic Blocks, Optim rev2  | [slides](PDFS/C110-FINAL-REVIEW-AST-IR-BB-OPT-rev2.pdf) ||
-| Tue, June 05     | EC Presentations           | Coming |       |
-|                  | Quiz 9: LVN Loop Unrolling |[quiz 9](PDFS/Quiz-09-LVN-AND-LOOP-UNROLLING.pdf) | | 
-|------------------|-------------------|--------|-------|
+|    | Review: Grammars/Amb/Prec/Assoc | [slides](PDFS/C110-FINAL-REVIEW-GRAMMARS-PRECEDENCE-ASSOCIATIVITY.pdf) | | 
+|    | Review: AST,IR,Basic Blocks, Optim rev2  | [slides](PDFS/C110-FINAL-REVIEW-AST-IR-BB-OPT-rev2.pdf) | |
+| Tue, June 05     | EC Presentations           | Coming                                                  | |
+|                  | Quiz 9: LVN Loop Unrolling |[quiz 9](PDFS/Quiz-09-LVN-AND-LOOP-UNROLLING.pdf)        | | 
+|------------------|----------------------------|---------------------------------------------------------|-|
 ## Final
 
