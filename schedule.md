@@ -57,18 +57,18 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tue, May 06      | MIDTERM  |        | 
-| Thu, May 08      | Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 | 
-|------------------|------------------------------|--------|---------|
-| Tue, May 13      | AST and TYPE Systems | Quiz:TBD  | EAC Chapter 4.2 | 
-|                  |                      | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf)  |   | 
-|                  |                      | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
+| Tue, May 06      | MIDTERM  |        |                |
+| Thu, May 08      | Abstract Syntax Trees (ASTs) | [slides](PDFS/C110-M3-01-AST.pdf)| EAC Chapter 5.1 |
+|------------------|------------------------------|----------------------------------|-----------------|
+| Tue, May 13      | AST and TYPE Systems         | Quiz:TBD                         | EAC Chapter 4.2 | 
+|                  |                              | [slides](PDFS/C110-M3-02-AST-POT-TYPES.pdf)  |   | 
+|                  |                              | [slides](PDFS/C110-M3-03-TYPES-FUNCTIONS.pdf)|   | 
 | Thu, May 15      | Intermediate Representations (IR) | [slides](PDFS/C110-M3-04-FUNCTIONS-IR-SCOPE_rev3.pdf)| EAC Chapter 5.3 |
 |------------------|----------|--------|--------|
 | Tue, May 20      | IR Representations (IR) / HW4 | same slides as last Thursday | | | 
 |------------------|----------|--------|--------|
 
-### Module 4: Optimization and Other Topics (TBD, Estimated Date)   
+### Module 4: Optimization and Other Topics (TBD, Estimated Date)
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
@@ -76,7 +76,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 |                  | Local Optimizations / Basic Blocks | [slides](PDFS/C110-M4-01-OPTIMIZATIONS_rev2.pdf) | EAC Chapter 8.1 |
 |------------------|----------|--------|----------------|
 | Tue, May 27      | Basic Blocks/LVN  | [slides](PDFS/C110-M4-01A-OPTIMIZATIONS_rev4.pdf) | EAC Chapter 8.1  |
-|                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf) |  |
+|                  | LVN STITCHING     | [slides](PDFS/C110-M4-01B-LVN-STITCH-CODE-BACK.pdf) |                |
 | 			      | LVN WO REGISTERS | [slides](PDFS/C110-M4-01C-LVN-WO-ADDING-REGS-AND-SETS.pdf) | EAC Chap 8-8.6 |
 |Thu, May 05       | LOOP UNROLLING    | [slides](PDFS/C110-M4-02-LOOP-UNROLLING.pdf) | EAC Chap 7.8 |
 |                  | Floating Point    | [slides](PDFS/12B_Floating_Point_rev6.pdf)   | |  
